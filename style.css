@@ -1,0 +1,20 @@
+.a{
+    text-align: center;
+}
+
+::placeholder {
+    opacity: 50%; 
+}
+
+.b{
+    background-color: darkcyan; color: #fff; padding: 20px;
+}
+
+.c {
+    margin: 20px;
+}
+
+.e{
+    display: flex;
+    justify-content: center;
+}
